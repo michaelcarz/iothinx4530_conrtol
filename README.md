@@ -1,2 +1,9 @@
 # iothinx4530_conrtol
-Real-time ioThinx 4530 Series device control and monitoring system, dynamic digital input/output management
+## 簡介
+這是用於管理ioThinx 4530系列設備的digital輸入/輸出。
+透過外接控制板與按鈕觸發，系統能夠監控並反應數字信號
+
+## 功能
+- **數字輸入監控**：透過外接的控制板按鈕觸發digital in。
+- **數字輸出管理**：根據數字輸入信號自動調整digital out。
+- **即時反應與控制**：系統能即時響應外部信號變化，更新輸出狀態。
